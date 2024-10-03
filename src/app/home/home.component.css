@@ -1,0 +1,27 @@
+
+section{
+    margin-top: 5%;
+}
+
+#images img{
+    height: 300px;
+    width: 300px;
+}
+
+#images{
+    float: right;
+    margin-right: 10%;
+}
+
+#description{
+    float: left;
+    margin-left: 10%;
+}
+
+#wallet{
+    margin-left: 15%;
+    float: left;
+
+    
+}
+
